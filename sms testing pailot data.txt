@@ -1,0 +1,53 @@
+myown login data:
+
+for parent: arjun.kesava@gmail.com & pass= 8331811291
+for teaching staff: abc0gmail.com & pass= teacher
+for non teaching staff: abc3@gmail.com	& pass= nonteacher
+
+adminstrative test login mails
+
+mail: smsinsttest01@gmail.com   password:9494944041
+mail: smsinsttest02@gmail.com   password:9494944041
+mail: smsinsttest03@gmail.com   password:9494944041
+mail: smsinsttest04@gmail.com   password:9494944041
+mail: smsinsttest05@gmail.com   password:9494944041
+
+
+
+inst test 01
+non teaching staff login mails
+mail: smsinst01nt01@gmail.com   password:9494944041
+mail: smsinst01nt02@gmail.com   password:9494944041
+mail: smsinst01nt03@gmail.com   password:9494944041
+
+
+
+inst test 02
+non teaching staff login mails
+mail: smsinst02nt01@gmail.com   password:9494944041
+mail: smsinst02nt02@gmail.com   password:9494944041
+mail: smsinst02nt03@gmail.com   password:9494944041
+
+
+
+inst test 03
+non teaching staff login mails
+mail: smsinst03nt01@gmail.com   password:9494944041
+mail: smsinst03nt02@gmail.com   password:9494944041
+mail: smsinst03nt03@gmail.com   password:9494944041
+
+
+
+inst test 04
+non teaching staff login mails
+mail: smsinst04nt01@gmail.com   password:9494944041
+mail: smsinst04nt02@gmail.com   password:9494944041
+mail: smsinst04nt03@gmail.com   password:9494944041
+
+
+
+inst test 05
+non teaching staff login mails
+mail: smsinst05nt01@gmail.com   password:9494944041
+mail: smsinst05nt02@gmail.com   password:9494944041
+mail: smsinst05nt03@gmail.com   password:9494944041
